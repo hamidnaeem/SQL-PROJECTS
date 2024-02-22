@@ -1,0 +1,24 @@
+# Pizza Sales Analysis Project
+
+Welcome to the Pizza Sales Analysis project! This repository contains SQL queries designed to analyze a pizza sales dataset, providing valuable insights into various aspects of the business.
+
+
+
+## Queries
+
+Explore the following SQL queries for comprehensive pizza sales analysis:
+
+1. **Total Sales:** Discover the overall sales figure.
+2. **Average Unit Price:** Calculate the average unit price of pizzas.
+3. **Most Ordered Pizza:** Identify the most popular pizza based on total quantity ordered.
+4. **Busiest Order Date:** Find the date with the highest number of orders.
+5. **Total Quantity Sold by Pizza Category:** Breakdown of total quantity sold for each pizza category.
+
+... and more!
+
+## Usage
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/pizza-sales-analysis.git
